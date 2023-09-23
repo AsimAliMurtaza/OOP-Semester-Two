@@ -1,0 +1,8 @@
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek4\OOPWeek4Task\OOPWeek4Task\bin\Debug\OOPWeek4Task.exe.config
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek4\OOPWeek4Task\OOPWeek4Task\bin\Debug\OOPWeek4Task.exe
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek4\OOPWeek4Task\OOPWeek4Task\bin\Debug\OOPWeek4Task.pdb
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek4\OOPWeek4Task\OOPWeek4Task\obj\Debug\OOPWeek4Task.csproj.AssemblyReference.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek4\OOPWeek4Task\OOPWeek4Task\obj\Debug\OOPWeek4Task.csproj.SuggestedBindingRedirects.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek4\OOPWeek4Task\OOPWeek4Task\obj\Debug\OOPWeek4Task.csproj.CoreCompileInputs.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek4\OOPWeek4Task\OOPWeek4Task\obj\Debug\OOPWeek4Task.exe
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek4\OOPWeek4Task\OOPWeek4Task\obj\Debug\OOPWeek4Task.pdb

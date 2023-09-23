@@ -1,0 +1,8 @@
+C:\Users\Asim Ali\source\repos\BusinessApp\BusinessApp\bin\Debug\BusinessApp.exe.config
+C:\Users\Asim Ali\source\repos\BusinessApp\BusinessApp\bin\Debug\BusinessApp.exe
+C:\Users\Asim Ali\source\repos\BusinessApp\BusinessApp\bin\Debug\BusinessApp.pdb
+C:\Users\Asim Ali\source\repos\BusinessApp\BusinessApp\obj\Debug\BusinessApp.csproj.AssemblyReference.cache
+C:\Users\Asim Ali\source\repos\BusinessApp\BusinessApp\obj\Debug\BusinessApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asim Ali\source\repos\BusinessApp\BusinessApp\obj\Debug\BusinessApp.csproj.CoreCompileInputs.cache
+C:\Users\Asim Ali\source\repos\BusinessApp\BusinessApp\obj\Debug\BusinessApp.exe
+C:\Users\Asim Ali\source\repos\BusinessApp\BusinessApp\obj\Debug\BusinessApp.pdb

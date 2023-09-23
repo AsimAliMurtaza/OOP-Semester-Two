@@ -1,0 +1,8 @@
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek7\ChallengeTwo\ChallengeTwo\bin\Debug\ChallengeTwo.exe.config
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek7\ChallengeTwo\ChallengeTwo\bin\Debug\ChallengeTwo.exe
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek7\ChallengeTwo\ChallengeTwo\bin\Debug\ChallengeTwo.pdb
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek7\ChallengeTwo\ChallengeTwo\obj\Debug\ChallengeTwo.csproj.AssemblyReference.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek7\ChallengeTwo\ChallengeTwo\obj\Debug\ChallengeTwo.csproj.SuggestedBindingRedirects.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek7\ChallengeTwo\ChallengeTwo\obj\Debug\ChallengeTwo.csproj.CoreCompileInputs.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek7\ChallengeTwo\ChallengeTwo\obj\Debug\ChallengeTwo.exe
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek7\ChallengeTwo\ChallengeTwo\obj\Debug\ChallengeTwo.pdb

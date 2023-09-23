@@ -1,0 +1,12 @@
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek9\LabNine\LabNine\bin\Debug\LabNine.exe.config
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek9\LabNine\LabNine\bin\Debug\LabNine.exe
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek9\LabNine\LabNine\bin\Debug\LabNine.pdb
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek9\LabNine\LabNine\obj\Debug\LabNine.csproj.AssemblyReference.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek9\LabNine\LabNine\obj\Debug\LabNine.csproj.SuggestedBindingRedirects.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek9\LabNine\LabNine\obj\Debug\LabNine.Properties.Resources.resources
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek9\LabNine\LabNine\obj\Debug\LabNine.csproj.GenerateResource.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek9\LabNine\LabNine\obj\Debug\LabNine.csproj.CoreCompileInputs.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek9\LabNine\LabNine\obj\Debug\LabNine.exe
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek9\LabNine\LabNine\obj\Debug\LabNine.pdb
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek9\LabNine\LabNine\obj\Debug\LabNine.frmLogin.resources
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek9\LabNine\LabNine\obj\Debug\LabNine.frmRegister.resources

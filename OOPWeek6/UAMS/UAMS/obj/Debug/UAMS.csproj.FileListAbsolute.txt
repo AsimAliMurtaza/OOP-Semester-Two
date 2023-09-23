@@ -1,0 +1,8 @@
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek6\UAMS\UAMS\obj\Debug\UAMS.csproj.AssemblyReference.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek6\UAMS\UAMS\obj\Debug\UAMS.csproj.SuggestedBindingRedirects.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek6\UAMS\UAMS\obj\Debug\UAMS.csproj.CoreCompileInputs.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek6\UAMS\UAMS\bin\Debug\UAMS.exe.config
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek6\UAMS\UAMS\bin\Debug\UAMS.exe
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek6\UAMS\UAMS\bin\Debug\UAMS.pdb
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek6\UAMS\UAMS\obj\Debug\UAMS.exe
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek6\UAMS\UAMS\obj\Debug\UAMS.pdb

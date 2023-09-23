@@ -1,0 +1,16 @@
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek4\Challenge\Challenge\Challenge\obj\Debug\Challenge.csproj.AssemblyReference.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek4\Challenge\Challenge\Challenge\obj\Debug\Challenge.csproj.SuggestedBindingRedirects.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek4\Challenge\Challenge\Challenge\obj\Debug\Challenge.csproj.CoreCompileInputs.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek4\Challenge\Challenge\Challenge\bin\Debug\Challenge.exe.config
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek4\Challenge\Challenge\Challenge\bin\Debug\Challenge.exe
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek4\Challenge\Challenge\Challenge\bin\Debug\Challenge.pdb
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek4\Challenge\Challenge\Challenge\obj\Debug\Challenge.exe
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek4\Challenge\Challenge\Challenge\obj\Debug\Challenge.pdb
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek4\Challenge\Challenge\bin\Debug\Challenge.exe.config
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek4\Challenge\Challenge\bin\Debug\Challenge.exe
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek4\Challenge\Challenge\bin\Debug\Challenge.pdb
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek4\Challenge\Challenge\obj\Debug\Challenge.csproj.AssemblyReference.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek4\Challenge\Challenge\obj\Debug\Challenge.csproj.SuggestedBindingRedirects.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek4\Challenge\Challenge\obj\Debug\Challenge.csproj.CoreCompileInputs.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek4\Challenge\Challenge\obj\Debug\Challenge.exe
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek4\Challenge\Challenge\obj\Debug\Challenge.pdb

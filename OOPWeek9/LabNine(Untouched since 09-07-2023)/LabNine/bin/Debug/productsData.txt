@@ -1,0 +1,15 @@
+vegetable,kgjjh,14,15,76886
+fruit,Billi,1200,12,12
+vegetable,kgjjh,14,15,76886
+fruit,Billi,1200,12,12
+vegetable,kgjjh,14,15,76886
+fruit,Billi,1200,12,12
+dairy,milk,1255,121,1222
+vegetable,kgjjh,14,15,76886
+fruit,Billi,1200,12,12
+vegetable,kgjjh,14,15,76886
+fruit,Billi,1200,12,12
+vegetable,kgjjh,14,15,76886
+fruit,Billi,1200,12,12
+dairy,milk,1255,121,1222
+fruit,hullo,766,5656,545

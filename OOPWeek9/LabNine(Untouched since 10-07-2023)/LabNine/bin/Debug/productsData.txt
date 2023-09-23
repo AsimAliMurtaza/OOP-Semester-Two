@@ -1,0 +1,4 @@
+fruit,apple,40,250,1
+vegetable,aloo,500,256,2
+vegetable,aloo,600,270,2
+fruit,apple,1200,1200,1

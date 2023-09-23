@@ -1,0 +1,8 @@
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek5\Challange1\Challange1\obj\Debug\Challange1.csproj.AssemblyReference.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek5\Challange1\Challange1\obj\Debug\Challange1.csproj.SuggestedBindingRedirects.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek5\Challange1\Challange1\obj\Debug\Challange1.csproj.CoreCompileInputs.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek5\Challange1\Challange1\bin\Debug\Challange1.exe.config
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek5\Challange1\Challange1\bin\Debug\Challange1.exe
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek5\Challange1\Challange1\bin\Debug\Challange1.pdb
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek5\Challange1\Challange1\obj\Debug\Challange1.exe
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek5\Challange1\Challange1\obj\Debug\Challange1.pdb

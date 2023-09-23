@@ -1,0 +1,8 @@
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek7\ChallengeOne\ChallengeOne\obj\Debug\ChallengeOne.csproj.AssemblyReference.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek7\ChallengeOne\ChallengeOne\obj\Debug\ChallengeOne.csproj.SuggestedBindingRedirects.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek7\ChallengeOne\ChallengeOne\obj\Debug\ChallengeOne.csproj.CoreCompileInputs.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek7\ChallengeOne\ChallengeOne\bin\Debug\ChallengeOne.exe.config
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek7\ChallengeOne\ChallengeOne\bin\Debug\ChallengeOne.exe
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek7\ChallengeOne\ChallengeOne\bin\Debug\ChallengeOne.pdb
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek7\ChallengeOne\ChallengeOne\obj\Debug\ChallengeOne.exe
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek7\ChallengeOne\ChallengeOne\obj\Debug\ChallengeOne.pdb

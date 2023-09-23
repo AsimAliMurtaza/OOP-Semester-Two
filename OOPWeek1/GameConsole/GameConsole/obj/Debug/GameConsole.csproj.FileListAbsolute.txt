@@ -1,0 +1,11 @@
+C:\Users\Asim Ali\source\repos\GameConsole\GameConsole\bin\Debug\GameConsole.exe.config
+C:\Users\Asim Ali\source\repos\GameConsole\GameConsole\bin\Debug\GameConsole.exe
+C:\Users\Asim Ali\source\repos\GameConsole\GameConsole\bin\Debug\GameConsole.pdb
+C:\Users\Asim Ali\source\repos\GameConsole\GameConsole\obj\Debug\GameConsole.csproj.AssemblyReference.cache
+C:\Users\Asim Ali\source\repos\GameConsole\GameConsole\obj\Debug\GameConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asim Ali\source\repos\GameConsole\GameConsole\obj\Debug\GameConsole.csproj.CoreCompileInputs.cache
+C:\Users\Asim Ali\source\repos\GameConsole\GameConsole\obj\Debug\GameConsole.exe
+C:\Users\Asim Ali\source\repos\GameConsole\GameConsole\obj\Debug\GameConsole.pdb
+C:\Users\Asim Ali\source\repos\GameConsole\GameConsole\bin\Debug\EZInput.dll
+C:\Users\Asim Ali\source\repos\GameConsole\GameConsole\bin\Debug\EZInput.xml
+C:\Users\Asim Ali\source\repos\GameConsole\GameConsole\obj\Debug\GameConsole.csproj.CopyComplete

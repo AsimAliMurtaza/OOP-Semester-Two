@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BusinessApp.BL.AdminBL">
+    <Position X="6.5" Y="8.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAhAAAAAA=</HashCode>
+      <FileName>BL\AdminBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApp.BL.CustomerBL">
+    <Position X="10.75" Y="8.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAACISAAAgoAAAAAAgEAACQQAAAwAAEBAQAABA=</HashCode>
+      <FileName>BL\CustomerBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApp.BL.ProductBL">
+    <Position X="1" Y="5.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>UIAQADgAAAAgAACAEAAAhAABAAAACIAAAAgAAEAIEAE=</HashCode>
+      <FileName>BL\ProductBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApp.UserBL">
+    <Position X="8.25" Y="1.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>ARAAAAEACISAAAgAABAAABEEAAAQQAAAwAAAhgQAAAA=</HashCode>
+      <FileName>BL\UserBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApp.BL.CustomerDL">
+    <Position X="16.5" Y="1.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAACAAAAAAAAAAAgAABAAA=</HashCode>
+      <FileName>DL\CustomerDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApp.BL.ProductDL">
+    <Position X="16.5" Y="11" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQBQACAAAAAIAAgIQAEAAAAACgAAQAAABAAAAAA=</HashCode>
+      <FileName>DL\ProductDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApp.BL.ValidationsDL">
+    <Position X="16.5" Y="8.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAACAAAAAAAAAAAAAAAIgAAAABAAAAgAAAAA=</HashCode>
+      <FileName>DL\ValidationsDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApp.DL.UserDL">
+    <Position X="16.5" Y="3.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>QAgIAACAQAQAAAAAAAACAAAAAAAiAAAEQAAAAgAAAAA=</HashCode>
+      <FileName>DL\UserDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

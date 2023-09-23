@@ -1,0 +1,377 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3EE12C47-B1CB-4129-B73D-15AF8950004F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BusinessApp</RootNamespace>
+    <AssemblyName>BusinessApp</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI">
+      <HintPath>C:\Users\asim9\Downloads\Compressed\Guna.UI-Framework-Lib-master\Guna.UI-Framework-Lib-master\Guna.UI WinForms\.net 4.0\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.4.4, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.4\lib\net48\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BL\AdminBL.cs" />
+    <Compile Include="BL\CustomerBL.cs" />
+    <Compile Include="BL\ProductBL.cs" />
+    <Compile Include="BL\UserBL.cs" />
+    <Compile Include="DL\CustomerDL.cs" />
+    <Compile Include="DL\ProductDL.cs" />
+    <Compile Include="DL\UserDL.cs" />
+    <Compile Include="DL\ValidationsDL.cs" />
+    <Compile Include="frmAddToCartCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddToCartCustomer.Designer.cs">
+      <DependentUpon>frmAddToCartCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChangeEmailCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChangeEmailCustomer.Designer.cs">
+      <DependentUpon>frmChangeEmailCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChangePasswordCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChangePasswordCustomer.Designer.cs">
+      <DependentUpon>frmChangePasswordCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCheckoutCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCheckoutCustomer.Designer.cs">
+      <DependentUpon>frmCheckoutCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomerMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomerMenu.Designer.cs">
+      <DependentUpon>frmCustomerMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDeleteAccountCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDeleteAccountCustomer.Designer.cs">
+      <DependentUpon>frmDeleteAccountCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDeleteFromCartCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDeleteFromCartCustomer.Designer.cs">
+      <DependentUpon>frmDeleteFromCartCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManageAccountCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManageAccountCustomer.Designer.cs">
+      <DependentUpon>frmManageAccountCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegister.Designer.cs">
+      <DependentUpon>frmRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegisterCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegisterCustomer.Designer.cs">
+      <DependentUpon>frmRegisterCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUpdateProductDetailsAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUpdateProductDetailsAdmin.Designer.cs">
+      <DependentUpon>frmUpdateProductDetailsAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddProductAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddProductAdmin.Designer.cs">
+      <DependentUpon>frmAddProductAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdminMenu.Designer.cs">
+      <DependentUpon>frmAdminMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDeleteProductAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDeleteProductAdmin.Designer.cs">
+      <DependentUpon>frmDeleteProductAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegisterAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegisterAdmin.Designer.cs">
+      <DependentUpon>frmRegisterAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewAllProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewAllProducts.Designer.cs">
+      <DependentUpon>frmViewAllProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewCartCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewCartCustomer.Designer.cs">
+      <DependentUpon>frmViewCartCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewUser.Designer.cs">
+      <DependentUpon>frmViewUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAddProductAdmin.resx">
+      <DependentUpon>frmAddProductAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddToCartCustomer.resx">
+      <DependentUpon>frmAddToCartCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdminMenu.resx">
+      <DependentUpon>frmAdminMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChangeEmailCustomer.resx">
+      <DependentUpon>frmChangeEmailCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChangePasswordCustomer.resx">
+      <DependentUpon>frmChangePasswordCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCheckoutCustomer.resx">
+      <DependentUpon>frmCheckoutCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomerMenu.resx">
+      <DependentUpon>frmCustomerMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDeleteAccountCustomer.resx">
+      <DependentUpon>frmDeleteAccountCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDeleteFromCartCustomer.resx">
+      <DependentUpon>frmDeleteFromCartCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDeleteProductAdmin.resx">
+      <DependentUpon>frmDeleteProductAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManageAccountCustomer.resx">
+      <DependentUpon>frmManageAccountCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegister.resx">
+      <DependentUpon>frmRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegisterAdmin.resx">
+      <DependentUpon>frmRegisterAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegisterCustomer.resx">
+      <DependentUpon>frmRegisterCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUpdateProductDetailsAdmin.resx">
+      <DependentUpon>frmUpdateProductDetailsAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewAllProducts.resx">
+      <DependentUpon>frmViewAllProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewCartCustomer.resx">
+      <DependentUpon>frmViewCartCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewUser.resx">
+      <DependentUpon>frmViewUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="ClassDiagram.cd" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3615135.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login-icon-3048.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\applicationsother_103414.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2224259.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-removebg-preview %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-clipart-carrot-carrot-vegetable-orange-icon-carrot-creative-food-creative-artwork.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-transparent-apple-logo-cartoon-red-fruit-heart-love-food-symbol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-removebg-preview %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list-ingredients-512-removebg-preview %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list-ingredients-512-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list-ingredients-512.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-removebg-preview %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-removebg-preview %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-removebg-preview %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer-service-icon-user-with-laptop-computer-and-headphone-illustration-free-vector.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3__2850_29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\128-1280822_check-mark-box-clip-art-blue-admin-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\295128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\152533.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\register-14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-transparent-apple-logo-cartoon-red-fruit-heart-love-food-symbol-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-clipart-carrot-carrot-vegetable-orange-icon-carrot-creative-food-creative-artwork-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-removebg-preview %2811%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-removebg-preview %2810%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-removebg-preview %289%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-removebg-preview %288%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-removebg-preview %287%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-removebg-preview %286%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-removebg-preview %2813%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-removebg-preview %2812%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-removebg-preview %2817%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1000_F_115313920_TVwZOyScG4llRi8DalVeYTyOpsyo0ZwK.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-removebg-preview %2820%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-removebg-preview %2819%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-removebg-preview %2818%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-removebg-preview %2817%291.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
